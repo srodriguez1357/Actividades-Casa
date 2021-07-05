@@ -13,7 +13,8 @@ Ve todas las opciones de colores que podemos usar: https://trinket.io/docs/color
 ## Actividad:
 1. Importa el módulo de Turtle 
 2. Dale un nombre a tu tortuga usando ```turtle.Turtle()```
-4. Agrega la siguiente línea de código ```t.pencolor("crimson")```
+4. Agrega la siguiente línea de código ```squirtle.pencolor("crimson")```
+>Recuerda cambiar squirtle por el nombre de tu tortuga
 5. Sustituye *crimson* por cualquier otro color de la página de arriba
 6. Crea un iterador que empiece en 0 
 7. Crea un ciclo while que la condición sea ```i<100```
