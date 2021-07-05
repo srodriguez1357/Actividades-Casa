@@ -19,8 +19,8 @@ Ve todas las opciones de colores que podemos usar: https://trinket.io/docs/color
 6. Crea un iterador que empiece en 0 
 7. Crea un ciclo while que la condición sea ```i<100```
 8. Agrega los siguientes comandos adentro del while 
-* ```t.forward(i)```
-* ```t.left(91)```
+* ```squirtle.forward(i)```
+* ```squirtle.left(91)```
 > Nota: No olvides agregar los espacios necesarios para que tu codigo esté dentro del ciclo while
 10. Agrega la línea de código que le suma uno al iterador
 11. Disfruta :flags:
