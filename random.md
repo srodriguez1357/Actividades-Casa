@@ -8,9 +8,9 @@ Generar números aleatorios :1234:
 ## Antes de empezar: 
 El módulo random sirve para generar eventos aleatorios. Vamos a usar una función llamada randint (random integer / entero aleatorio). Se utiliza para generar números enteros (int) al azar. La función se usa así: ```random.randint(0,100)```. Los números adentro del paréntesis, indican el rango que puede usar.
 Ejemplos:
-* random.randint(0,100) Genera números al azar que pueden ir del 1 al 100, como 20, 24 o 90
-* random.randint(50,60) Genera números al azar que pueden ir del 51 al 60, como 51, 59 y 60
-* random.randint(99,100) Solamente puede generar el número 100
+* random.randint(0,100) Genera números al azar que pueden ir del 0 al 100, como 20, 24 o 90
+* random.randint(50,60) Genera números al azar que pueden ir del 50 al 60, como 51, 59 y 60
+* random.randint(99,100) Solamente puede generar 99 y 100
 ## Actividad:
 1. Importa el módulo random
 * ```import random```
