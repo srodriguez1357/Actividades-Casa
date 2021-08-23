@@ -44,7 +44,7 @@ while i <10:
 	i = i+1
 ~~~
 
-Hasta ahora, nuestro programa imprime 10 veces el primer objeto de la lista, pero nosotros queremos que imprima el objeto siguiente de ls lista...¿se te ocurre algo que podemos usar para esta tarea?
+Hasta ahora, nuestro programa imprime 10 veces el primer objeto de la lista, pero nosotros queremos que imprima el objeto siguiente de la lista...¿se te ocurre algo que podemos usar para esta tarea?
 >Pista: Debemos cambiar el 0 que está dentro de milista_submarina[0] por otra cosa...
 
 Intenta encontrar la respuesta, antes de ver la solución en el paso siguiente.
