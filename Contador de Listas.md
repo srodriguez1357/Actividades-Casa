@@ -13,6 +13,7 @@ Antes de empezar la exploración, tu tarea es crear un programa que sirva como u
 ¡No olvides intentar el challenge cuando hayas acabado el programa! El challenge está al final.
 
 ## Actividad:
+Recuerda probar tu código depsués de haber completado cada instrucción, para saber si funciona correctamente.
 1) Crear una lista con **10** objetos. Estos son los objetos que imaginas que se pueden encontrar en las ruinas submarinas.
 >Ponle un nombre diferente a tu lista
 ~~~python
