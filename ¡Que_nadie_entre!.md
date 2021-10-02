@@ -66,10 +66,9 @@ Acceso permitido
 Tu resultado final debe verse algo como esto, cuida de usar los nombres de varibales y espacios correctos.
 
 ~~~python
-input
-input
-
 while
+	input
+	input
 	if
 	
 	else
