@@ -27,3 +27,5 @@ En esta actividad crearemos un juego que funcionará de la siguiente manera
 > Recuerda que para saber si dos variables son iguales usamos dos símbolos de igual (==)
 6. Si ambas variables son iguales, decirle al jugador que ganó
 7. Si no son iguales, decirle que perdió
+
+_Innovaland 2021, creado por: Salvador Rodríguez_
