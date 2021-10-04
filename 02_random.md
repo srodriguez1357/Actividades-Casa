@@ -20,3 +20,5 @@ Ejemplos:
 4. Usa print para mostrar el valor de la variable y observa los diferentes valores que se generan
 * ```print(mivariable)```
 5. ¡Utiliza diferentes rangos y ve lo que pasa! :alien:
+
+_Innovaland 2021, creado por: Salvador Rodríguez_
