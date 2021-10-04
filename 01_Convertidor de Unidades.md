@@ -34,4 +34,4 @@ Para verificar que tu programa sea correcto, intenta los siguientes valores y ve
 
 ¿Y tú ya viste cuantos Pikachus mides? :smile: 
 
-
+_Innovaland 2021, creado por: Salvador Rodríguez_
