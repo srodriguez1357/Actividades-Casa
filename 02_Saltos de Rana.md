@@ -32,7 +32,6 @@ if(numero=100):
 En todos estos casos, podemos ver que los bloques que están adentro de otro, cuentan con un espacio a la izquierda
 #### Apoyo visual
 ![iamgen1](https://github.com/srodriguez1357/Actividades-Casa/blob/main/images/Pasted%20image%2020211004103128.png)
-![[images/Pasted image 20211004103128.png]]
 _Fuente: Python for Kids_
 
 ### Houston...necesitamos más espacios
@@ -50,12 +49,12 @@ while(i<10):
 	i=i+1
 ~~~
 
-![[Pasted image 20211004143046.png]]
+![imagen](https://github.com/srodriguez1357/Actividades-Casa/blob/main/images/Pasted%20image%2020211004143046.png)
 
 Cuenta los espacios que hay en cada nivel. El primer while está pegado, el while que está adentro, tiene un espacio, el if que está adentro del while que está adentro del while, tiene 2 espacios, el print que está adentro del if que está adentro del while que está adentro del while tiene 3 y ya empieza a parecer trabalenguas.
 
 #### Apoyo visual
-![[Pasted image 20211004103100.png]]
+![imagen](https://github.com/srodriguez1357/Actividades-Casa/blob/main/images/Pasted%20image%2020211004103100.png)
 _Fuente: Python for Kids_
 
 ## Actividad:
@@ -82,7 +81,7 @@ print("Tu número mágico es",i)
 
 2) Una vez pegado tu proyecto debería verse así, verifica que si esté igual que en la imagen. El banner de hasta arriba tú le puedes agregar el que quieras una vez que todo funcione
 
-![[Pasted image 20211004140524.png]]
+![imagen](https://github.com/srodriguez1357/Actividades-Casa/blob/main/images/Pasted%20image%2020211004143046.png)
 
 3)  Agrega todos los espacios/identaciones necesarios para que el código funcione. Lo único que hay que corregir del código son espacios, todo lo demás funciona correctamente. 
 >Recuerda que si tienes duda, puedes ver códigos anteriores y volver a leer la sección de recordando aprendizajes
