@@ -131,3 +131,4 @@ Y listo, así tenemos un código a prueba de errores.
 
 3) Por último, para probar esto, borra o agrega 2 objetos de lista y ve si todo funciona como debería
 
+_Innovaland 2021, creado por: Salvador Rodríguez_
