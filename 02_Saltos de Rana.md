@@ -31,7 +31,7 @@ if(numero=100):
 
 En todos estos casos, podemos ver que los bloques que están adentro de otro, cuentan con un espacio a la izquierda
 #### Apoyo visual
-![[Pasted image 20211004103128.png]]
+![[images/Pasted image 20211004103128.png]]
 _Fuente: Python for Kids_
 
 ### Houston...necesitamos más espacios
