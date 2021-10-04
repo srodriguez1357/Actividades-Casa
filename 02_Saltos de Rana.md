@@ -1,5 +1,6 @@
 # Saltos de Rana
 ## Objetivo: 
+Poder solucionar errores de identación en tu código de forma independiente.
 
 ## Conocimiento usado:
 1. Identaciones
