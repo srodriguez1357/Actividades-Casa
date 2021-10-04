@@ -103,3 +103,5 @@ while objeto != "" :
 print("Tu lista tiene",variable*,"objetos")
 print("Tu lista:",lista*)
 ~~~
+
+_Innovaland 2021, creado por: Salvador Rodríguez_
